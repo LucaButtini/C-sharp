@@ -1,0 +1,15 @@
+E:\3E\Buttini Luca\c#\GestioneBambini\bin\Debug\GestioneBambini.exe.config
+E:\3E\Buttini Luca\c#\GestioneBambini\bin\Debug\GestioneBambini.exe
+E:\3E\Buttini Luca\c#\GestioneBambini\bin\Debug\GestioneBambini.pdb
+E:\3E\Buttini Luca\c#\GestioneBambini\obj\Debug\GestioneBambini.csproj.AssemblyReference.cache
+E:\3E\Buttini Luca\c#\GestioneBambini\obj\Debug\GestioneBambini.csproj.CoreCompileInputs.cache
+E:\3E\Buttini Luca\c#\GestioneBambini\obj\Debug\GestioneBambini.exe
+E:\3E\Buttini Luca\c#\GestioneBambini\obj\Debug\GestioneBambini.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\bin\Debug\GestioneBambini.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\bin\Debug\GestioneBambini.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\bin\Debug\GestioneBambini.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\obj\Debug\GestioneBambini.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\obj\Debug\GestioneBambini.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\obj\Debug\GestioneBambini.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\obj\Debug\GestioneBambini.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\GestioneBambini\obj\Debug\GestioneBambini.pdb

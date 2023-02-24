@@ -1,0 +1,8 @@
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\bin\Debug\LaScuolaElementareMenu.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\bin\Debug\LaScuolaElementareMenu.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\bin\Debug\LaScuolaElementareMenu.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.pdb

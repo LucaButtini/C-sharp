@@ -1,0 +1,16 @@
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.csproj.AssemblyReference.cache
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.csproj.SuggestedBindingRedirects.cache
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\bin\Debug\LaMaestraInGita.exe.config
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\bin\Debug\LaMaestraInGita.exe
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\bin\Debug\LaMaestraInGita.pdb
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.exe
+C:\Users\Paolo\Desktop\IIS VIOLA MARCHESINI\TERZO ANNO\INFORMATICA\progetti visual studio\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\bin\Debug\LaMaestraInGita.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\bin\Debug\LaMaestraInGita.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\bin\Debug\LaMaestraInGita.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaMaestraInGita\LaMaestraInGita\obj\Debug\LaMaestraInGita.pdb

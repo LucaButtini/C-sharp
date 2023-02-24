@@ -1,0 +1,15 @@
+E:\3E\Buttini Luca\c#\Random1-10Array\bin\Debug\Random1-10Array.exe.config
+E:\3E\Buttini Luca\c#\Random1-10Array\bin\Debug\Random1-10Array.exe
+E:\3E\Buttini Luca\c#\Random1-10Array\bin\Debug\Random1-10Array.pdb
+E:\3E\Buttini Luca\c#\Random1-10Array\obj\Debug\Random1-10Array.csproj.AssemblyReference.cache
+E:\3E\Buttini Luca\c#\Random1-10Array\obj\Debug\Random1-10Array.csproj.CoreCompileInputs.cache
+E:\3E\Buttini Luca\c#\Random1-10Array\obj\Debug\Random1-10Array.exe
+E:\3E\Buttini Luca\c#\Random1-10Array\obj\Debug\Random1-10Array.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\bin\Debug\Random1-10Array.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\bin\Debug\Random1-10Array.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\bin\Debug\Random1-10Array.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\obj\Debug\Random1-10Array.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\obj\Debug\Random1-10Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\obj\Debug\Random1-10Array.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\obj\Debug\Random1-10Array.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Random1-10Array\obj\Debug\Random1-10Array.pdb
