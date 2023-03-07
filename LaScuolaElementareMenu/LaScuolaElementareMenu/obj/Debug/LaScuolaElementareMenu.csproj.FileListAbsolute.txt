@@ -6,3 +6,10 @@ C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaE
 C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.csproj.CoreCompileInputs.cache
 C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.exe
 C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.pdb
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\bin\Debug\LaScuolaElementareMenu.exe.config
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\bin\Debug\LaScuolaElementareMenu.exe
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\bin\Debug\LaScuolaElementareMenu.pdb
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.exe
+C:\Users\Studente\Desktop\LaScuolaElementareMenu\LaScuolaElementareMenu\obj\Debug\LaScuolaElementareMenu.pdb
