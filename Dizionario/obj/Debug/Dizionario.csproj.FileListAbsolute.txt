@@ -1,0 +1,15 @@
+E:\3E\Buttini Luca\c#\Dizionario\bin\Debug\Dizionario.exe.config
+E:\3E\Buttini Luca\c#\Dizionario\bin\Debug\Dizionario.exe
+E:\3E\Buttini Luca\c#\Dizionario\bin\Debug\Dizionario.pdb
+E:\3E\Buttini Luca\c#\Dizionario\obj\Debug\Dizionario.csproj.AssemblyReference.cache
+E:\3E\Buttini Luca\c#\Dizionario\obj\Debug\Dizionario.csproj.CoreCompileInputs.cache
+E:\3E\Buttini Luca\c#\Dizionario\obj\Debug\Dizionario.exe
+E:\3E\Buttini Luca\c#\Dizionario\obj\Debug\Dizionario.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\bin\Debug\Dizionario.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\bin\Debug\Dizionario.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\bin\Debug\Dizionario.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\obj\Debug\Dizionario.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\obj\Debug\Dizionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\obj\Debug\Dizionario.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\obj\Debug\Dizionario.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Dizionario\obj\Debug\Dizionario.pdb

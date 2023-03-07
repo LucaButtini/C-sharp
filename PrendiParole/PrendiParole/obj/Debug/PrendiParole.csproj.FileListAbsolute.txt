@@ -1,0 +1,8 @@
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\bin\Debug\PrendiParole.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\bin\Debug\PrendiParole.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\bin\Debug\PrendiParole.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\obj\Debug\PrendiParole.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\obj\Debug\PrendiParole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\obj\Debug\PrendiParole.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\obj\Debug\PrendiParole.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\PrendiParole\PrendiParole\obj\Debug\PrendiParole.pdb

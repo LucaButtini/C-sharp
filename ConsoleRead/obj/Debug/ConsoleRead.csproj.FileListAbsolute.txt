@@ -1,0 +1,7 @@
+E:\3E\Buttini Luca\c#\ConsoleRead\bin\Debug\ConsoleRead.exe.config
+E:\3E\Buttini Luca\c#\ConsoleRead\bin\Debug\ConsoleRead.exe
+E:\3E\Buttini Luca\c#\ConsoleRead\bin\Debug\ConsoleRead.pdb
+E:\3E\Buttini Luca\c#\ConsoleRead\obj\Debug\ConsoleRead.csproj.AssemblyReference.cache
+E:\3E\Buttini Luca\c#\ConsoleRead\obj\Debug\ConsoleRead.csproj.CoreCompileInputs.cache
+E:\3E\Buttini Luca\c#\ConsoleRead\obj\Debug\ConsoleRead.exe
+E:\3E\Buttini Luca\c#\ConsoleRead\obj\Debug\ConsoleRead.pdb
