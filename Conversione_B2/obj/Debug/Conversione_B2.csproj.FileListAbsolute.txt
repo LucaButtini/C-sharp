@@ -1,0 +1,15 @@
+E:\3E INFORMATICA\Conversione_B2\bin\Debug\Conversione_B2.exe.config
+E:\3E INFORMATICA\Conversione_B2\bin\Debug\Conversione_B2.exe
+E:\3E INFORMATICA\Conversione_B2\bin\Debug\Conversione_B2.pdb
+E:\3E INFORMATICA\Conversione_B2\obj\Debug\Conversione_B2.csproj.AssemblyReference.cache
+E:\3E INFORMATICA\Conversione_B2\obj\Debug\Conversione_B2.csproj.CoreCompileInputs.cache
+E:\3E INFORMATICA\Conversione_B2\obj\Debug\Conversione_B2.exe
+E:\3E INFORMATICA\Conversione_B2\obj\Debug\Conversione_B2.pdb
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\bin\Debug\Conversione_B2.exe.config
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\bin\Debug\Conversione_B2.exe
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\bin\Debug\Conversione_B2.pdb
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\obj\Debug\Conversione_B2.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\obj\Debug\Conversione_B2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\obj\Debug\Conversione_B2.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\obj\Debug\Conversione_B2.exe
+C:\Users\Cristian\Desktop\Conversione_B2-20230201T140803Z-001\Conversione_B2\obj\Debug\Conversione_B2.pdb

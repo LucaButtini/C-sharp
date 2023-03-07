@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\bin\Debug\vinaioparte5.exe.config
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\bin\Debug\vinaioparte5.exe
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\bin\Debug\vinaioparte5.pdb
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\obj\Debug\vinaioparte5.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\obj\Debug\vinaioparte5.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\obj\Debug\vinaioparte5.exe
+C:\Users\Studente\Desktop\Nuova cartella\vinaioparte5\obj\Debug\vinaioparte5.pdb

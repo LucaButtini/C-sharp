@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversioneHex", "ConversioneHex\ConversioneHex.csproj", "{2597EE4A-1E8B-423D-8F7A-5FC216793176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2597EE4A-1E8B-423D-8F7A-5FC216793176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2597EE4A-1E8B-423D-8F7A-5FC216793176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2597EE4A-1E8B-423D-8F7A-5FC216793176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2597EE4A-1E8B-423D-8F7A-5FC216793176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B362AA2-EBA3-42EF-B226-9AA347A9546F}
+	EndGlobalSection
+EndGlobal

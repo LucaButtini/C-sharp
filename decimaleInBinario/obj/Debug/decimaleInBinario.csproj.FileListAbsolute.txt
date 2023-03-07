@@ -1,0 +1,22 @@
+E:\3E\Buttini Luca\c#\decimaleInBinario\bin\Debug\decimaleInBinario.exe.config
+E:\3E\Buttini Luca\c#\decimaleInBinario\bin\Debug\decimaleInBinario.exe
+E:\3E\Buttini Luca\c#\decimaleInBinario\bin\Debug\decimaleInBinario.pdb
+E:\3E\Buttini Luca\c#\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.AssemblyReference.cache
+E:\3E\Buttini Luca\c#\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.CoreCompileInputs.cache
+E:\3E\Buttini Luca\c#\decimaleInBinario\obj\Debug\decimaleInBinario.exe
+E:\3E\Buttini Luca\c#\decimaleInBinario\obj\Debug\decimaleInBinario.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\bin\Debug\decimaleInBinario.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\bin\Debug\decimaleInBinario.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\bin\Debug\decimaleInBinario.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\obj\Debug\decimaleInBinario.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\c sharp\decimaleInBinario\obj\Debug\decimaleInBinario.pdb
+C:\Users\Studente\Desktop\decimaleInBinario\bin\Debug\decimaleInBinario.exe.config
+C:\Users\Studente\Desktop\decimaleInBinario\bin\Debug\decimaleInBinario.exe
+C:\Users\Studente\Desktop\decimaleInBinario\bin\Debug\decimaleInBinario.pdb
+C:\Users\Studente\Desktop\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\decimaleInBinario\obj\Debug\decimaleInBinario.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\decimaleInBinario\obj\Debug\decimaleInBinario.exe
+C:\Users\Studente\Desktop\decimaleInBinario\obj\Debug\decimaleInBinario.pdb

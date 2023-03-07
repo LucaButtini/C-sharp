@@ -1,0 +1,8 @@
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\bin\Debug\ConversioneHex.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\bin\Debug\ConversioneHex.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\bin\Debug\ConversioneHex.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\obj\Debug\ConversioneHex.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\obj\Debug\ConversioneHex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\obj\Debug\ConversioneHex.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\obj\Debug\ConversioneHex.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\ConversioneHex\ConversioneHex\obj\Debug\ConversioneHex.pdb

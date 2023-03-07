@@ -1,0 +1,18 @@
+E:\3E\Buttini Luca\c#\DecToHexV2\obj\Debug\DecToHexV2.csproj.AssemblyReference.cache
+E:\3E\Buttini Luca\c#\DecToHexV2\obj\Debug\DecToHexV2.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\obj\Debug\DecToHexV2.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\obj\Debug\DecToHexV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\obj\Debug\DecToHexV2.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\bin\Debug\DecToHexV2.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\bin\Debug\DecToHexV2.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\bin\Debug\DecToHexV2.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\obj\Debug\DecToHexV2.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\DecToHexV2\obj\Debug\DecToHexV2.pdb
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\bin\Debug\DecToHexV2.exe.config
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\bin\Debug\DecToHexV2.exe
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\bin\Debug\DecToHexV2.pdb
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\obj\Debug\DecToHexV2.csproj.AssemblyReference.cache
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\obj\Debug\DecToHexV2.csproj.SuggestedBindingRedirects.cache
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\obj\Debug\DecToHexV2.csproj.CoreCompileInputs.cache
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\obj\Debug\DecToHexV2.exe
+E:\pc luca buttini\itis 2022-23\c sharp\DecToHexV2\obj\Debug\DecToHexV2.pdb
