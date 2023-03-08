@@ -1,0 +1,8 @@
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\bin\Debug\EsercizioReadInClasse.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\bin\Debug\EsercizioReadInClasse.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\bin\Debug\EsercizioReadInClasse.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\obj\Debug\EsercizioReadInClasse.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\obj\Debug\EsercizioReadInClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\obj\Debug\EsercizioReadInClasse.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\obj\Debug\EsercizioReadInClasse.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\EsercizioReadInClasse\obj\Debug\EsercizioReadInClasse.pdb
