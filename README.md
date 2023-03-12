@@ -1,4 +1,4 @@
-My C sharp exercises from schoolù
+My C sharp exercises from school
 
 
 Here there are zip with the exercises and also the non zipped folder. To check the code click on the folder and select the Program.cs
