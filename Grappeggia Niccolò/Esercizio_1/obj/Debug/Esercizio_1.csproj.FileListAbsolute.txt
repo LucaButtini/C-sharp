@@ -1,0 +1,15 @@
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\bin\Debug\Esercizio_1.exe.config
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\bin\Debug\Esercizio_1.exe
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\bin\Debug\Esercizio_1.pdb
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.exe
+C:\Users\Studente\Desktop\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\bin\Debug\Esercizio_1.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\bin\Debug\Esercizio_1.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\bin\Debug\Esercizio_1.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Grappeggia Niccolò\Esercizio_1\obj\Debug\Esercizio_1.pdb

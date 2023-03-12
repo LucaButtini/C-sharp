@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\bin\Debug\EsercizioUno.exe.config
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\bin\Debug\EsercizioUno.exe
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\bin\Debug\EsercizioUno.pdb
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\obj\Debug\EsercizioUno.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\obj\Debug\EsercizioUno.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\obj\Debug\EsercizioUno.exe
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioUno\EsercizioUno\obj\Debug\EsercizioUno.pdb

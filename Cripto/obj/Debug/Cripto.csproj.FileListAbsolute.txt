@@ -1,0 +1,8 @@
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\bin\Debug\Cripto.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\bin\Debug\Cripto.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\bin\Debug\Cripto.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\obj\Debug\Cripto.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\obj\Debug\Cripto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\obj\Debug\Cripto.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\obj\Debug\Cripto.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Cripto\obj\Debug\Cripto.pdb

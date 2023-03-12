@@ -1,0 +1,8 @@
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\bin\Debug\CriptoRead.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\bin\Debug\CriptoRead.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\bin\Debug\CriptoRead.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\obj\Debug\CriptoRead.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\obj\Debug\CriptoRead.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\obj\Debug\CriptoRead.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\obj\Debug\CriptoRead.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\CriptoRead\CriptoRead\obj\Debug\CriptoRead.pdb

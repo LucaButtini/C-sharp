@@ -1,0 +1,15 @@
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\bin\Debug\EsercizioDue.exe.config
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\bin\Debug\EsercizioDue.exe
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\bin\Debug\EsercizioDue.pdb
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.exe
+C:\Users\Studente\Desktop\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\bin\Debug\EsercizioDue.exe.config
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\bin\Debug\EsercizioDue.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\bin\Debug\EsercizioDue.pdb
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.csproj.AssemblyReference.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.csproj.CoreCompileInputs.cache
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.exe
+C:\Users\Luca\OneDrive\Desktop\itis\INFORMATICA\Fuso Matteo\EsercizioDue\EsercizioDue\obj\Debug\EsercizioDue.pdb
